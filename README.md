@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,net,postgresql" />
+  <img src="https://skillicons.dev/icons?i=vue,cpp" />
 </p>
 
 
