@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,cpp" />
+  <img src="https://skillicons.dev/icons?i=vue,cpp,python" />
 </p>
 
 
